@@ -9,7 +9,7 @@ let config = {
 	output:{
 		path:path.resolve(__dirname,'dist'),
 		filename:"[name].[chunkhash].js",
-		publicPath:'/'
+		publicPath:'/loan-calculation-app/'
 	},
 	module:{
 		rules:[
