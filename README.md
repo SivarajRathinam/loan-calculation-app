@@ -18,3 +18,5 @@ go to http://localhost:8080/loan-calculation-app/
 
 
 Demo Url : https://sivarajrathinam.github.io/loan-calculation-app/
+
+![GitHub Logo](/images/loan-calculation-app.png)
